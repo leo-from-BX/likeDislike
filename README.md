@@ -1,4 +1,4 @@
-# Reto Técnico FullStack 
+# Reto Técnico 
 
 ## Like o Dislike
 
