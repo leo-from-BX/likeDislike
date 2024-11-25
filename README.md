@@ -68,7 +68,7 @@ Lo anterior tiene que ver con cumplir con el objetivo de un producto, pero ahora
 # NOTAS FINALES
 1. Este reto no espero que lo completes al 100% espero que definas tu, según el tiempo lo que puedes y no puedes hacer de toda la lista.
 2. Las cosas que estan en la lista que no estan marcadas como PUNTOS EXTRA no significa que sea obligatorio, si para cumplir con el objetivo te tienes que saltar algunas reglas, asume el riesgo y defiendelo en el correo de la entrega.
-3. Yo prefiero que esto se realice en javascript y/o typescript usando lo que definas que quieras usar; pero si tienes que adaptarte para cumplir con el objetivo principal, haslo y usa cualquier tecnologia con la que logres el objetivo.
+3. Yo prefiero que esto se realice en java, javascript y/o typescript usando lo que definas que quieras usar; pero si tienes que adaptarte para cumplir con el objetivo principal, haslo y usa cualquier tecnologia con la que logres el objetivo.
 4. Concentrate en el objetivo que esta en la “Descripción del Proyecto”.
 5. Si tienes dudas puedo apoyarte via mail, pero si resuelves y me cuentas que fue lo que paso ¡PUNTOS EXTRA!.
 6. Sobre la documentación para correr el proyecto en mi local, no des por sentado que tengo o no algo instalado en mi maquina, usa links de tutoriales, links de videos, has tu los paso a paso, pero deja toda la documentación necesaria para que cualquier persona pueda instalar, hacer correr y disfrutar de tu proyecto.
